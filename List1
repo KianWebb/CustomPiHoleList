@@ -24,3 +24,16 @@ device-metrics-eu.amazon.com
 device-metrics.amazon.com
 smetrics.amazon.com
 livesportmedia.eu
+# Amazon/Alexa/FireTV
+andr-25-aftkmst12-641002610.api.amazonvideo.com^
+api.eu.amazonalexa.com^
+arcus-uswest.amazon.com^
+aviary.amazon.*^
+avs-alexa-19-eu.amazon.com^
+dcape-na.amazon.com^
+dp-gw-na.amazon.com^
+ftv-smtv.ntp-fireos.com^
+mads-eu.amazon.com^
+mas-ext-eu.amazon.com^
+o2r2hew432.execute-api.us-east-1.amazonaws.com^
+prod.amazoncrl.com^
